@@ -1,0 +1,39 @@
+1545365749280	geckodriver	INFO	geckodriver 0.21.0
+1545365749302	geckodriver	INFO	Listening on 127.0.0.1:56349
+1545365750292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pz08Za2wZeVG"
+1545365752969	Marionette	INFO	Listening on port 32831
+1545365753021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545365753069	Marionette	DEBUG	[2147483649] Frame script loaded
+1545365753072	Marionette	DEBUG	[2147483649] Frame script registered
+1545365753087	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1545365753111	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1545365753122	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1545365753160	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=connectionFailure&u=http%3A//localhost%3A8000/&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8000.
+[Parent 10519, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1545365759042	Marionette	INFO	Stopped listening on port 32831
+1545365883597	geckodriver	INFO	geckodriver 0.21.0
+1545365883601	geckodriver	INFO	Listening on 127.0.0.1:33103
+1545365884611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qjXfFthJ8kvE"
+1545365886428	Marionette	INFO	Listening on port 35395
+1545365886551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545365886636	Marionette	DEBUG	[2147483649] Frame script loaded
+1545365886643	Marionette	DEBUG	[2147483649] Frame script registered
+1545365886657	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1545365886670	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1545365886694	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost:8000/
+1545365886726	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost:8000/
+[Parent 11212, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1545365911703	Marionette	INFO	Stopped listening on port 35395
+1545365921109	geckodriver	INFO	geckodriver 0.21.0
+1545365921113	geckodriver	INFO	Listening on 127.0.0.1:34933
+1545365922120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RwZqwQxEgu0b"
+1545365923686	Marionette	INFO	Listening on port 35007
+1545365923735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545365923789	Marionette	DEBUG	[2147483649] Frame script loaded
+1545365923792	Marionette	DEBUG	[2147483649] Frame script registered
+1545365923806	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1545365923825	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1545365923891	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for http://localhost:8000/
+1545365923911	Marionette	DEBUG	[2147483649] Received DOM event pageshow for http://localhost:8000/
+[Parent 11440, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1545365930328	Marionette	INFO	Stopped listening on port 35007
